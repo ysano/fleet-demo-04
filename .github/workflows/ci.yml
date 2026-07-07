@@ -9,6 +9,6 @@ on:
 
 jobs:
   ci:
-    uses: ysano/fleet-demo-01/.github/workflows/reusable-ci.yml@v1
+    uses: ysano/fleet-demo-01/.github/workflows/reusable-ci.yml@v2
     with:
       node-version: "20"
